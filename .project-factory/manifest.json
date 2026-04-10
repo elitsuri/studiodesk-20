@@ -1,0 +1,18 @@
+{
+  "project_name": "studiodesk",
+  "generated_at": "2026-04-10T14:15:01.812514+00:00",
+  "quality_profile": "production",
+  "documentation_policy": {
+    "no_emoji": true,
+    "plain_markdown": true
+  },
+  "stack": [
+    "dotnet"
+  ],
+  "file_count": 13,
+  "artifacts": {
+    "readme": "README.md",
+    "architecture_doc": "docs/ARCHITECTURE.md",
+    "operations_doc": "docs/OPERATIONS.md"
+  }
+}
